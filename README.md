@@ -4,7 +4,7 @@
   
 #### This repository contains the project files and design flow for the AI Classroom Assistant, developed as part of Intel Unnati Project.
 
-
+![AI Classroom Assistant Banner](ai_banner.png)
 
 <h1>Video References<p>
 

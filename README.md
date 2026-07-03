@@ -55,8 +55,6 @@ The platform then:
 👨‍💻 Team / Project Context
 Developed as a smart educational software solution, the AI Classroom Assistant merges advanced technical AI engineering with practical pedagogy and user-centered design. The project focuses heavily on creating an intuitive, low-friction environment for both teachers and students, demonstrating how cutting-edge multimodal AI can be turned into a seamless, everyday classroom utility.
 
-```
-
 <h1>Video References<p>
 
 # Text generation
